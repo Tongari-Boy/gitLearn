@@ -1,0 +1,5 @@
+git pull
+
+git add .
+git cmmit -m "コメント"
+git push
